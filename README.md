@@ -10,3 +10,5 @@ This repo will be updated day by day until i start with my own projects.
 4- Accordion - https://accordion-kdr.netlify.app
 
 5- Dynamic Menu - https://menu-kdr.netlify.app/
+
+6- Tabs - https://tabs-kdr.netlify.app/

@@ -12,3 +12,5 @@ This repo will be updated day by day until i start with my own projects.
 5- Dynamic Menu - https://menu-kdr.netlify.app/
 
 6- Tabs - https://tabs-kdr.netlify.app/
+
+7- Slider - https://slider-kdr.netlify.app/

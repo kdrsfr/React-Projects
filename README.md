@@ -16,3 +16,5 @@ This repo will be updated day by day until i start with my own projects.
 7- Slider - https://slider-kdr.netlify.app/
 
 8- Lorem Ipsum - https://lorem-kdr.netlify.app/
+
+9- Color Generator - https://color-generator-kdr.netlify.app/

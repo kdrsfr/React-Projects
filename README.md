@@ -20,3 +20,5 @@ This repo will be updated day by day until i start with my own projects.
 9- Color Generator - https://color-generator-kdr.netlify.app/
 
 10- Grocery Bud - https://grocery-bud-kdr.netlify.app/
+
+11- Siderbar Modal - https://sidebar-modal-kdr.netlify.app/

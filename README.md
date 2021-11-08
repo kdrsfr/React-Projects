@@ -22,3 +22,5 @@ This repo will be updated day by day until i start with my own projects.
 10- Grocery Bud - https://grocery-bud-kdr.netlify.app/
 
 11- Siderbar Modal - https://sidebar-modal-kdr.netlify.app/
+
+12- Stripe Submenus - https://stripe-submenus-kdr.netlify.app/
